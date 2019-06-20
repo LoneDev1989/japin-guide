@@ -7,6 +7,12 @@ This is a list of icons encountered in the app which does not have any attached 
 ** Camera **
 
 The following icons will appear when shooting a picture through Japin.
-![](/cam_rotate.png?raw=true) This button is used to switch between back and front cameras.
+
+Button | Description
+------------ | -------------
+![](/cam_rotate.png) | This button is used to switch between back and front cameras.
+
+
+ 
 
 
