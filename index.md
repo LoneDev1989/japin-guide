@@ -59,7 +59,7 @@ Button | Description
 ![](/images/cam_orientation_portrait.png) | This button is will change the frame mode by default potrait mode is selected. On clicking the following modes will cycle through.
 ![](/images/cam_orientation_square.png) | Crop frame set to square. Clicking on it will set frame mode to landscape.
 ![](/images/cam_orientation_landscape.png) | Crop frame set to landscape, clicking on it will cycle back to protrait frame mode. 
-![](/images/cam_ok.png) | This button is used to select the cropped picture and send it to the effect editor.
+![](/images/cam_ok.png) | This button is used to select the cropped picture and send it to the effect editor. Remember - crop the picture finally before sending to effect editor, as retry from effect editor will not result in coming back to the last cropped mode, rather it will open the image chooser again.
 
 **Effect Editor**
 
