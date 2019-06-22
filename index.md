@@ -64,11 +64,12 @@ Button | Description
 **Effect Editor**
 
 The following icons will appear when applying filters on a picture before posting.
+
 Button | Description
 ------------ | -------------
 ![](/images/cam_retry.png) | This button is used to retry loading another image for cropping (if upload and post is chosen) or clicking another picture (if click and post is chosen).
 ![](/images/cam_filter.png) | This button is used to apply the currently chosen filter, if none is chosen then this will appear as disabled. Applying a filter is used when you intend to apply multiple filters, otherwise clicking ok with the currently chosen filter will apply it by default.
-![](/images/cam_undo.png) | This button is used to undo the last filter. When multiple filters are applied clicking undo will revert back one step each time until the base picture is reached when it will be disabled by default. Also it is enabled only when atleast one filter is applied. Remember: choosing a filter and applying a filter is not same, applying a filter ensures further filters can be applied.
+![](/images/cam_undo.png) | This button is used to undo the last filter. When multiple filters are applied clicking undo will revert back one step each time until the base picture is reached when it will be disabled by default. Also it is enabled only when atleast one filter is applied. Remember- choosing a filter and applying a filter is not same, applying a filter ensures further filters can be applied.
 ![](/images/cam_ok.png) | This button is used to pass the edited picture to posting. 
 
 
