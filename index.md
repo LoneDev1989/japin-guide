@@ -39,7 +39,7 @@ The following icons will appear when shooting a picture through Japin.
 Button | Description
 ------------ | -------------
 ![](/images/cam_cancel.png) | This button is used cancel camera and return to main screen.
-![](/images/cam_click.png) | This button is used to click the picture.
+![](/images/cam_click.png) | This button is used to click the picture. After clicking the picture it will either send it to and open the effects editor (if "click and upload" is chosen) or save the copy and continue in camera mode (if "click and save" is chosen). If the image is not in focus it tries to focus the image after clicking thus making a freeze appearence which is absolutely normal. To avoid that try to click the picture after it gained focus. The crosshair or center of the creen is the auto focus and auto exposure anchor point. You can also pinch zoom before clicking.
 ![](/images/cam_rotate.png) | This button is used to switch between back and front cameras.
 ![](/images/cam_flash_auto.png) | This button is will change the flash mode, by default it is selected to auto mode. On clicking the following modes will be cycled through.
 ![](/images/cam_flash_on.png) | Camera flash mode always on. Clicking on it will set flash mode to off.
