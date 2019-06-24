@@ -1,6 +1,37 @@
 ## Guide to use Japin
 The Japin app is designed in a simple manner for easy understanding, however a brief guide may lower down the time to get oneself familiarized with the app. This guide is supposed to serve that purpose.
 
+### Menu Guide
+This is a list of menu items that appears in the navigation drawer of Japin. The following points briefly describes the functionality of each option.
+
+* See Pictures: This is selected by default when the app is opened, it is the wall where pictures visible to you appears sorted by its popularity and then its freshness.
+
+* Find Others: This opens up the lists that shows your admirers, people you are admiring and the entire Japin community. Right now it has a basic search fucntionality but in future updates filters and a better search will be there. 
+
+* See Profile: This opens up your own profile and your pictures.
+
+* Upload & Post: This opens a picture uploader, selecting a picture will open the cropper and after cropping that picture can be edited and then posted in Japin.
+
+* Click & Post: This opens up the camera, after the picture is shot it is sent to the picture editor from where it can be edited and then posted in Japin.
+
+* Click & Save: This also opens up the camera but clicking a picture here will just save it in the device and the camera will continue to operate till cancelled.
+
+* Share App: This opens up sharing options for the app installation link by which you can request your friends to install Japin on their device. Please share the app if you like it :)
+
+* Japin Intro: This opens up the slider intro or onboarding slide, which you saw when opening Japin after registration.
+
+* Japin Info: This opens up a webview that opens the site containing information about Japin.
+
+* Terms and Policy: This opens up a webview that opens the site containing Terms and Conditions and Privacy Policy of Japin.
+
+* How to Use Japin: This opens up this webview (the one you are currently viewing)
+
+* Rate Japin: This opens up the Google Play page for Japin app through which you can rate and review the app. Please rate and review the app after using it :)
+
+* Profile Settings: This opens up the edit profile options.
+
+* Log Out: This prompts you if you want to log out of Japin in case you feel any security issue.
+
 ### Icon Guide
 This is a list of icons encountered in the app which does not have any attached textual description, you can take a look for what they mean. The following tables group the icons (most of them are buttons) in order of activities where they are visible.
 
